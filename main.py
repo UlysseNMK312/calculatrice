@@ -4,3 +4,10 @@ import os
 if __name__ == "__main__":
     os.system("python -m calculatrice.calculatrice")
 
+
+# fonction somme
+
+def somme(a, b):
+    return a + b
+
+
