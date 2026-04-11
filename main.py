@@ -15,4 +15,8 @@ def somme(a, b):
 def soustraction(a, b):
     return a - b
 
+# fonction multiplication
+def multiplication(a, b):
+    return a * b
+
 
