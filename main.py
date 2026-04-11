@@ -11,3 +11,8 @@ def somme(a, b):
     return a + b
 
 
+# fonction soustraction
+def soustraction(a, b):
+    return a - b
+
+
