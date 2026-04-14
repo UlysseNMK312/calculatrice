@@ -1,4 +1,5 @@
 import os
+import math
 
 # lancement de l'application
 if __name__ == "__main__":
@@ -18,6 +19,10 @@ def soustraction(a, b):
 # fonction multiplication
 def multiplication(a, b):
     return a * b
+
+#fonction cosinus
+def cosinus(x):
+    return math.cos(x)
 
 
 #fonction division
