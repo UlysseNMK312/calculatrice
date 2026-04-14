@@ -25,3 +25,9 @@ def cosinus(x):
     return math.cos(x)
 
 
+#fonction division
+def division(a, b):
+    return a / b
+
+
+
