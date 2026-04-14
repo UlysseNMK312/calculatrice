@@ -20,3 +20,9 @@ def multiplication(a, b):
     return a * b
 
 
+#fonction division
+def division(a, b):
+    return a / b
+
+
+
