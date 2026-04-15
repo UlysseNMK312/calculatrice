@@ -19,6 +19,10 @@ def soustraction(a, b):
 # fonction multiplication
 def multiplication(a, b):
     return a * b
+#fonction sinus
+def sinus(a):
+    import math 
+    return math.sin(a)
 
 #fonction cosinus
 def cosinus(x):
